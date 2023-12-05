@@ -206,7 +206,7 @@ p {
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: 27px; /* 135% */
+  line-height: 135%; /* 27px */
 }
 
 .content-section__list {
@@ -234,7 +234,7 @@ p {
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21.6px; /* 135% */
+  line-height: 135%; /* 21.6px */
 }
 
 .card {
@@ -312,7 +312,7 @@ div.card_text-only {
 .card__text {
   padding-top: 8px;
 
-  line-height: 21.6px; /* 135% */
+  line-height: 135%; /* 21.6px */
 }
 
 .footer__copy {
