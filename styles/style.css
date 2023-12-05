@@ -95,7 +95,6 @@ display: flex;
 display: flex;
 width: 74px;
 height: 88;
-
 }
 
 .header__menu-list {
@@ -113,19 +112,16 @@ line-height: 19px;
 .header__menu-item {
 text-decoration: none;
 color: #F5F5F5;
-
 }
 
 .header__menu-item_active {
 text-decoration: underline;
-color: #F5F5F5; 
-
+color: #F5F5F5;
 }
 
 .header__menu-link {
 color: #F5F5F5;  
 text-decoration: none;
-
 }
 
 .cover__title {
@@ -136,7 +132,6 @@ font-style: normal;
 font-weight: 400;
 line-height: 100%;
 padding: 7px 23px 0 0;
-
 }
 
 .accent-span {
